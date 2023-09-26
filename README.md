@@ -1,8 +1,5 @@
-### 👋 ~~ 😊
-
-Backend beginner 🌱
-
-I'm currently learning a java 💻
+### 👋
+hi
 
 ![minkyoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkyoj&show_icons=true&theme=transparent)
 
